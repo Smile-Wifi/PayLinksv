@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "PayLink PH",
+      "hasCanvas": false,
+      "bodyTextLen": 1081,
+      "bodyTextHash": "f3ecdbe3781ea99c3379e5033ad8b60545c82683211b385f70b832358c167585",
+      "bodyTextPrefix": "PayLink PH Home Shop Embed Console PESO CHECKOUT Your e-wallet Q",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "PayLink PH",
+      "hasCanvas": false,
+      "bodyTextLen": 1081,
+      "bodyTextHash": "f3ecdbe3781ea99c3379e5033ad8b60545c82683211b385f70b832358c167585",
+      "bodyTextPrefix": "PayLink PH Home Shop Embed Console PESO CHECKOUT Your e-wallet Q",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

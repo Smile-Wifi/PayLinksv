@@ -1,0 +1,1 @@
+import{o as e}from"./index-Ufk0ZCUx.js";function t(){if(typeof window>`u`)return``;let t=e(window.location.hostname,window.location.pathname)??``;return`${window.location.origin}${t}`}function n(e){let n=t();return n?`${n}${e}`:e}export{t as n,n as t};
